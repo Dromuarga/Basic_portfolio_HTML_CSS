@@ -4,6 +4,10 @@ html {
   background-size: cover;
 }
 
+::selection {
+  background-color: #C8B6FF;
+}
+
 body {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
