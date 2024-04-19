@@ -1,7 +1,5 @@
 html {
-  background-image: linear-gradient(to bottom right, #90a955, #ecf39e);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(180deg, #90a955, #ecf39e);
 }
 
 ::selection {
@@ -27,7 +25,7 @@ body {
 }
 
 .description {
-  width: 600px;
+  width: 90%;
 }
 
 .header,
