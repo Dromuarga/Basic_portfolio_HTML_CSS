@@ -84,3 +84,9 @@ body {
 .subsection {
   margin-bottom: 50px;
 }
+
+@media (max-width: 550px) {
+  .name, .header > h3, .header-links > h3 {
+    font-size: 5vh;
+  }
+}
