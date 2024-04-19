@@ -1,9 +1,9 @@
 html {
-  background: linear-gradient(180deg, #90a955, #ecf39e);
+  background: linear-gradient(180deg, #90a955, #5e6f38);
 }
 
 ::selection {
-  background-color: #C8B6FF;
+  background-color: #30391c;
 }
 
 body {
